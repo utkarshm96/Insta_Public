@@ -1,8 +1,10 @@
-This is a replica of the Instagram Web App built in Ruby on Rails.
-Main Features:
-* Liking Pictures
-* Users and Restrictions
-* Image Uploading
-* CRUD functionality for pictures
+README
 
-Copy & Paste Stylesheets (application.css.scss) when building your version of the app.
+To launch the app:
+clone the repository.
+Install Rails
+Go into the app directory and type “rails server” in terminal
+Launch the app in the browser
+You're all SET!
+
+NOTE: Make sure you have necessary gems installed or the server won't run!
